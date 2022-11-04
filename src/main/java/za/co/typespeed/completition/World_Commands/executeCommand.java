@@ -1,0 +1,32 @@
+//package za.co.wethinkcode.robotworlds.World_Commands;
+//
+//
+//public class executeCommand {
+//    private String command;
+//
+//    public executeCommand(String command) {
+//        this.command = command;
+//        runCommand();
+//    }
+//
+//    public void runCommand(){
+//
+//        switch (this.command){
+//            case "save":
+//                new saveCommand("insert");
+//                break;
+//            case "restore":
+//                new RestoreCommand("restore");
+//                break;
+//            case "stop":
+//                new ShutdownCommand().stop();
+//                break;
+//            case "quit":
+//                break;
+//        }
+//    }
+//
+//}
+//
+//
+//

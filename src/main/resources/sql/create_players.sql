@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS Players(  name Text NOT NULL PRIMARY KEY, password Text Not NULL, number Text NOT NULL);

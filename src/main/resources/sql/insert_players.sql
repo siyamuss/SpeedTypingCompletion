@@ -1,0 +1,1 @@
+INSERT OR REPLACE INTO Players( name, password, number ) VALUES(?, ?, ?);

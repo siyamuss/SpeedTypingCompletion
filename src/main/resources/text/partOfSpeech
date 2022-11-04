@@ -1,0 +1,15 @@
+The Fetch API provides a JavaScript interface for accessing and manipulating parts of the HTTP pipeline, such as requests and responses.
+You will build a web application that tracks expenses shared amongst friends.
+It is based on social trust.
+The server side will use Java and the Javalin framework.
+It’s up to you, as a team, to figure out how to progress.
+Let’s modify our app to offer dictionary or thesaurus functionality.
+Do not start coding.
+Run a planning session for the iteration.
+The database consists of four tables.
+Note that all SQL statements must be terminated with a semicolon.
+Run on every code committed to the main branch of your repository.
+We know the task is done when...
+Continuous Integration is an Attitude, Not a Tool.
+run make clean will delete all target directories subdirectories.
+© 2022 WeThinkCode_, All Rights Reserved.
